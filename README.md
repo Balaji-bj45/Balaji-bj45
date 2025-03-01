@@ -2,9 +2,8 @@
 <h3 align="center">MERN Stack Developer | Passionate About Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://assets6.lottiefiles.com/packages/lf20_jtbfg2nb.json" width="500" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
-
 
 
 
