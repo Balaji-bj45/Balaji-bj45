@@ -2,8 +2,9 @@
 <h3 align="center">MERN Stack Developer | Passionate About Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://github-readme-terminal.vercel.app/?username=Balaji-bj45&theme=monokai" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
 
 
 
