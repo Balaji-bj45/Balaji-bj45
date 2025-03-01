@@ -2,9 +2,8 @@
 <h3 align="center">MERN Stack Developer | Passionate About Scalable Web Applications</h3>
 
 <p align="center">
-  <iframe src="https://my.spline.design/3ddeveloper-4b86588c7aab57f1ffcf4b3a4f94a123/" frameborder="0" width="600" height="400"></iframe>
+  <img src="https://github-readme-terminal.vercel.app/?username=Balaji-bj45&theme=monokai" />
 </p>
-
 
 
 
