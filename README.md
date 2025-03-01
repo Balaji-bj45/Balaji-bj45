@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Passionate About Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Hi,+I'm+Balaji!;💻+Full-Stack+Developer;⚡+Building+Scalable+Web+Apps">
 </p>
 
 
