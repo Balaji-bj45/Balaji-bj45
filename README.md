@@ -2,8 +2,9 @@
 <h3 align="center">MERN Stack Developer | Passionate About Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Hi,+I'm+Balaji!;💻+Full-Stack+Developer;⚡+Building+Scalable+Web+Apps">
+  <iframe src="https://my.spline.design/3ddeveloper-4b86588c7aab57f1ffcf4b3a4f94a123/" frameborder="0" width="600" height="400"></iframe>
 </p>
+
 
 
 
