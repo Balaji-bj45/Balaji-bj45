@@ -1,10 +1,9 @@
 <h1 align="center">🚀 Hi, I'm Balaji! 👋</h1>
 <h3 align="center">MERN Stack Developer | Passionate About Scalable Web Applications</h3>
+
 <p align="center">
-  <a href="https://github.com/Balaji-bj45/github-profile-game">
-    <img src="https://github.com/Balaji-bj45/github-profile-game/blob/main/screenshot.gif" width="500" />
-  </a>
-</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p> 
 
 
 
