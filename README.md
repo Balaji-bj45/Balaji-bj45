@@ -26,6 +26,7 @@ When I'm not coding, you can find me:
 
 I'm looking for opportunities to grow as a developer, work on real-world projects, and make a meaningful impact. Let's connect and build something amazing together!  
 
+---
 
 ## 🛠 *Tech Stack*
 
