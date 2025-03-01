@@ -7,11 +7,24 @@
 
 ---
 
-### 🌱 *About Me*  
-- 🔭 I’m currently working on *MERN stack projects*  
-- 💡 Exploring *Next.js, Cloud Deployment, and AI integrations*  
-- 🚀 Open to *collaborations on innovative projects*  
-- 💬 Ask me about *Web Development, APIs, and Performance Optimization*   
+### 🌱 *About Me*
+
+👋 Hi, I'm **Balaji**, a passionate and enthusiastic **MERN Stack Developer** with a strong foundation in web development and a drive to build scalable, user-friendly applications. As a fresher, I'm excited to kickstart my career in the tech industry and contribute to innovative projects.
+
+- 🎓 Recently graduated with a degree in **Computer Science and Engineering** from **Prince Dr. K. Vasudevan College of Engineering and Technology**.  
+- 💻 Proficient in **HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB**.  
+- 🌟 Eager to learn and explore new technologies like **Next.js, TypeScript, and GraphQL**.  
+- 🚀 Actively working on personal projects to enhance my skills and build a strong portfolio.  
+- 🔧 Passionate about problem-solving, clean code, and creating seamless user experiences.  
+- 🌍 Open to collaborating on open-source projects and contributing to the developer community.  
+- 📚 Constantly learning and staying updated with the latest trends in web development.  
+
+When I'm not coding, you can find me:  
+- 🧠 Solving coding challenges on platforms like **LeetCode** and **HackerRank**.  
+- 📖 Reading tech blogs and exploring new tools and frameworks.  
+- 🎮 Enjoying video games or Playing Cricket.  
+
+I'm looking for opportunities to grow as a developer, work on real-world projects, and make a meaningful impact. Let's connect and build something amazing together!  
 ---
 
 ## 🛠 *Tech Stack*
