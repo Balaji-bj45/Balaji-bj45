@@ -11,9 +11,7 @@
 - 🔭 I’m currently working on *MERN stack projects*  
 - 💡 Exploring *Next.js, Cloud Deployment, and AI integrations*  
 - 🚀 Open to *collaborations on innovative projects*  
-- 💬 Ask me about *Web Development, APIs, and Performance Optimization*  
-- ⚡ Fun fact: I love *problem-solving & automation* 🤖  
-
+- 💬 Ask me about *Web Development, APIs, and Performance Optimization*   
 ---
 
 ## 🛠 *Tech Stack*  
