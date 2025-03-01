@@ -2,10 +2,9 @@
 <h3 align="center">MERN Stack Developer | Passionate About Scalable Web Applications</h3>
 
 <p align="center">
-  <a href="https://skyline.github.com/Balaji-bj45/2023">
-    <img src="https://skyline.github.com/Balaji-bj45/2023.png" width="500"/>
-  </a>
+  <img src="https://assets6.lottiefiles.com/packages/lf20_jtbfg2nb.json" width="500" />
 </p>
+
 
 
 
