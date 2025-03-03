@@ -68,13 +68,6 @@ I'm looking for opportunities to grow as a developer, work on real-world project
 
 ---
 
-## 📊 *GitHub Stats*
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-bj45&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-bj45&theme=radical" />
-</p>
-
 📌 *Most Used Languages*  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-bj45&layout=compact&theme=radical" />
