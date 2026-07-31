@@ -1,42 +1,54 @@
-<h1 align="center">🚀 Balaji-bj45</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Enthusiast</h3>
+<h1 align="center">Balaji-bj45</h1>
+<h3 align="center">Full Stack Developer | MERN Specialist</h3>
 
 <p align="center">
-Passionate about building scalable, responsive, and user-friendly web applications.
+Designing scalable backend systems and building high-performance web applications.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-Hi, I'm **Balaji-bj45**, a Computer Science graduate and MERN Stack Developer.  
-I enjoy building complete full-stack applications and continuously improving my development skills.
+I'm **Balaji-bj45**, a Full Stack Developer specializing in the MERN stack with hands-on experience building production-ready web applications.
 
-- 🔭 Currently working on full-stack MERN projects  
-- 🌱 Learning **Next.js** and **TypeScript**  
-- 💡 Interested in backend architecture & scalable systems  
-- 🧠 Practicing problem-solving on LeetCode  
-- ⚡ Focused on clean code and performance  
+I focus on writing clean, maintainable code and designing scalable architectures that deliver seamless user experiences.
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Frontend
-React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap  
-
-### ⚙️ Backend
-Node.js • Express.js • REST APIs  
-
-### 🗄 Database
-MongoDB • MySQL  
-
-### 🧰 Tools
-Git • GitHub • Postman • VS Code • Netlify • AWS (Basics)
+- 🏗 Building end-to-end full stack applications  
+- 🔐 Implementing secure authentication & authorization systems  
+- ⚡ Optimizing application performance  
+- 📦 Designing RESTful APIs and modular backend structures  
+- 🚀 Deploying applications to cloud platforms  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Technical Expertise
+
+### Frontend
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap  
+
+### Backend
+Node.js • Express.js • REST API Design • Middleware Architecture  
+
+### Databases
+MongoDB • MySQL • Data Modeling  
+
+### DevOps & Tools
+Git • GitHub • Postman • AWS • Netlify • CI/CD (Basics)
+
+---
+
+## 📌 Core Competencies
+
+✔ Scalable Application Architecture  
+✔ API Development & Integration  
+✔ Authentication (JWT)  
+✔ CRUD Systems & Admin Dashboards  
+✔ Responsive & Mobile-First Design  
+✔ Performance Optimization  
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balaji-bj45&show_icons=true&theme=tokyonight" />
@@ -44,11 +56,11 @@ Git • GitHub • Postman • VS Code • Netlify • AWS (Basics)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p>
 <a href="https://www.linkedin.com/in/balaji-p-463168287">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -56,4 +68,4 @@ Git • GitHub • Postman • VS Code • Netlify • AWS (Basics)
 
 ---
 
-⭐️ From [Balaji-bj45](https://github.com/Balaji-bj45)
+© Balaji-bj45
