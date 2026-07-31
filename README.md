@@ -1,91 +1,95 @@
-# Hi there 👋, I'm Balaji P
+# Hi 👋, I'm Balaji P
 
-### Full Stack MERN Developer | React | Node.js | TypeScript
+### 🚀 Full Stack MERN Developer | React.js | Node.js | TypeScript
 
-Passionate Full Stack Developer from India 🇮🇳 focused on building scalable web applications with modern technologies. I enjoy solving real-world problems, learning new technologies, and creating clean, user-friendly interfaces.
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+Passionate Full Stack Developer from **India 🇮🇳** who enjoys building scalable web applications and learning modern technologies. I love solving real-world problems, writing clean code, and continuously improving my development skills.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack MERN Developer
+- 💼 Full Stack MERN Developer
 - 🌱 Currently learning **Next.js, TypeScript, PostgreSQL & Prisma**
-- 🔭 Working on Full Stack Web Applications
-- 📚 Always learning new technologies
-- 🤝 Open to collaboration on Open Source Projects
-- 💬 Ask me about React, Node.js, Express, MongoDB, JavaScript
+- 🚀 Building scalable web applications
+- 💡 Interested in System Design & Backend Development
+- 🤝 Open Source Contributor
+- 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript**
+- 📫 Reach me: **your-email@example.com**
 - ⚡ Fun Fact: I love turning ideas into real applications.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nextjs" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,firebase" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Balaji-bj45&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Balaji-bj45&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-bj45&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📊 Coding Activity
+## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+[![Balaji's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Balaji-bj45&theme=tokyo-night)](https://github.com/Balaji-bj45)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=Balaji-bj45&theme=tokyonight&no-frame=true&margin-w=15)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌿 Plantify
-E-commerce web application built with React and Node.js.
-
 ### 🤖 Alice AI
-AI-powered chatbot with authentication and dashboard.
+AI-powered chatbot built with the MERN Stack.
 
 ### 🛒 StylenStory
-Full Stack MERN E-commerce platform with Razorpay integration.
+Modern MERN e-commerce application with Razorpay integration.
+
+### 🌿 Plantify
+Responsive plant shopping website using React.
 
 ### 📚 Book Finder
-Search books using the Open Library API.
+Book search application using the Open Library API.
 
 ### 🌍 Social Minds Chennai
-Modern digital marketing agency website built with React.
+Digital Marketing Agency website built using React + Tailwind CSS.
+
+### 💼 Logistics Management System
+Enterprise logistics platform with container tracking and workflow management.
 
 ---
 
@@ -95,29 +99,51 @@ Modern digital marketing agency website built with React.
 - TypeScript
 - PostgreSQL
 - Prisma ORM
-- System Design
 - Docker
+- System Design
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: https://YOUR_WEBSITE
-- 📧 Email: your@email.com
+<p align="left">
+<a href="https://github.com/Balaji-bj45">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Balaji-bj45&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## ⚡ Quote
+## 💻 Visitor Badge
 
-> "First, solve the problem. Then, write the code."
+![](https://visitcount.itsvg.in/api?id=Balaji-bj45&icon=5&color=6)
 
 ---
 
-⭐ Thanks for visiting my profile! Happy Coding! 🚀
+## ✨ Quote
+
+> **"Code. Learn. Build. Repeat."** 🚀
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories!
+
+</div>
